@@ -22,7 +22,7 @@ public class CalculatorTest {
 	public void testSubtract() {
 	//fail("Not yet implemented");
 	int result = obj.subtract(5,3);
-	assertEquals(8, result);
+	assertEquals(2, result);
 	}
 
 }
