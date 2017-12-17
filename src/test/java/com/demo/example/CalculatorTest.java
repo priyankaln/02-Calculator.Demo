@@ -17,7 +17,12 @@ public class CalculatorTest {
 	public void testAdd() {
 	//fail("Not yet implemented");
 	int result = obj.add(5,3);
-	assertEquals(9, result);
+	assertEquals(8, result);
+	}
+	public void testSubtract() {
+	//fail("Not yet implemented");
+	int result = obj.subtract(5,3);
+	assertEquals(8, result);
 	}
 
 }
